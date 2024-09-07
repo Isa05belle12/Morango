@@ -7,10 +7,12 @@
 
 .section1 {
     background-color: rgb(3, 3, 3);
+    padding: 100px;
 }
 
 .section2 {
     background-color: blue;
+    padding: 100px;
 }
 
 .imgfrutas {
