@@ -6,7 +6,7 @@
 }
 
 .section1 {
-    background-image: linear-gradient(rgb(5, 8, 221),rgb(71, 2, 80));
+    background-image: linear-gradient(blue,purple);
     padding: 100px;
 }
 
