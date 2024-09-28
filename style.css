@@ -11,7 +11,7 @@
 }
 
 .section2 {
-    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(purple,rgb(233, 18, 136));
     padding: 100px;
 }
 
